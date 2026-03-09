@@ -1,0 +1,13 @@
+[25348:25508:0308/212224.444:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[25348:6924:0308/212224.485:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[25348:25508:0308/212224.495:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[26100:23844:0308/212227.456:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-8FECAA18804922F48467305E506765D2 will be ignored
+[14764:19940:0308/212233.601:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[14764:19940:0308/212234.011:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[25348:17516:0308/212239.053:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[14764:19940:0308/212248.000:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[14764:19940:0308/212302.821:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[14764:19940:0308/212330.164:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 9
+[14764:19940:0308/212330.164:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 11
+[14764:19940:0308/212330.169:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 13
+[25348:25508:0308/212330.234:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

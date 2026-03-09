@@ -1,0 +1,18 @@
+[15528:21908:0308/212341.671:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[15528:3764:0308/212341.704:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[15528:21908:0308/212341.718:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[32588:17724:0308/212346.100:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-6512018A848F79E2EE8571D72B552109 will be ignored
+[15528:25832:0308/212347.771:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[15528:21908:0308/212348.103:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[15528:21908:0308/212348.104:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[15528:21908:0308/212348.104:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[15528:21908:0308/212348.104:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[15528:25832:0308/212348.107:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[32312:11976:0308/212348.114:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[32312:11976:0308/212348.881:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[15528:25832:0308/212356.525:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[32312:11976:0308/212401.447:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[32312:11976:0308/212409.778:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[30116:19236:0308/212602.337:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[30116:19236:0308/212602.338:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[15528:21908:0308/214155.676:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

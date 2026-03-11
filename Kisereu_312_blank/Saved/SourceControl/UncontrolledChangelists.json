@@ -5,7 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/adria/Documents/Unreal Projects/Kisereu_312/Kisereu_312_blank/Content/PlayerCharacter/BP_PlayerCharacter.uasset",
 				"C:/Users/adria/Documents/Unreal Projects/Kisereu_312/Kisereu_312_blank/Content/Maps/Map_Testbed.umap",
 				"C:/Users/adria/Documents/Unreal Projects/Kisereu_312/Kisereu_312_blank/Content/Characters/IA_Move.uasset",
 				"C:/Users/adria/Documents/Unreal Projects/Kisereu_312/Kisereu_312_blank/Content/Characters/IA_Jump.uasset",
@@ -156,7 +155,10 @@
 				"C:/Users/adria/Documents/Unreal Projects/Kisereu_312/Kisereu_312_blank/Content/__ExternalActors__/Maps/Map_Testbed/5/Y1/898DIZVLTQEFHFF82MZ188.uasset",
 				"C:/Users/adria/Documents/Unreal Projects/Kisereu_312/Kisereu_312_blank/Content/__ExternalActors__/Maps/Map_Testbed/B/RZ/0QWC3FZOFSCDEXU2P96VJ2.uasset",
 				"C:/Users/adria/Documents/Unreal Projects/Kisereu_312/Kisereu_312_blank/Content/Characters/IA_Look.uasset",
-				"C:/Users/adria/Documents/Unreal Projects/Kisereu_312/Kisereu_312_blank/Content/MyGameGamemode.uasset"
+				"C:/Users/adria/Documents/Unreal Projects/Kisereu_312/Kisereu_312_blank/Content/MyGameGamemode.uasset",
+				"C:/Users/adria/Documents/Unreal Projects/Kisereu_312/Kisereu_312_blank/Content/UI/HealthUI/WBP_HealthBar.uasset",
+				"C:/Users/adria/Documents/Unreal Projects/Kisereu_312/Kisereu_312_blank/Content/UI/HungerUI/WBP_HungerBar.uasset",
+				"C:/Users/adria/Documents/Unreal Projects/Kisereu_312/Kisereu_312_blank/Content/PlayerCharacter/BP_PlayerCharacter.uasset"
 			]
 		}
 	]

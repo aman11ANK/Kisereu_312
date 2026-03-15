@@ -1,5 +1,1 @@
-2026/03/11-00:13:41.414 b68 Log #3: 3 ops saved to Table #4 OK
-2026/03/11-00:13:41.425 b68 Archiving C:\Users\adria\Documents\Unreal Projects\Kisereu_312\Kisereu_312_blank\Saved\webcache_6613\Default\Site Characteristics Database/000003.log: OK
-2026/03/11-00:13:41.425 b68 Table #4: 3 entries OK
-2026/03/11-00:13:41.426 b68 Archiving C:\Users\adria\Documents\Unreal Projects\Kisereu_312\Kisereu_312_blank\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
-2026/03/11-00:13:41.436 b68 **** Repaired leveldb C:\Users\adria\Documents\Unreal Projects\Kisereu_312\Kisereu_312_blank\Saved\webcache_6613\Default\Site Characteristics Database; recovered 1 files; 207 bytes. Some data may have been lost. ****
+2026/03/11-00:13:41.445 b68 Reusing MANIFEST C:\Users\adria\Documents\Unreal Projects\Kisereu_312\Kisereu_312_blank\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001

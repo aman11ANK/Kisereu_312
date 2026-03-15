@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [10500:17896:0315/050932.288:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
 [10500:36584:0315/050932.325:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
 [10500:17896:0315/050932.336:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
@@ -13,3 +14,26 @@
 [10500:33476:0315/050940.886:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\adria\Documents\Unreal Projects\Kisereu_312\Kisereu_312_blank\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: C:\Users\adria\Documents\Unreal Projects\Kisereu_312\Kisereu_312_blank\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
 [10500:27680:0315/050942.564:ERROR:cast_crl.cc(443)] CRL - Verification failed.
 [10500:17896:0315/050950.205:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+=======
+[36284:36624:0315/024144.303:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[36284:28644:0315/024144.514:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[36284:36624:0315/024144.618:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[36284:7904:0315/024148.695:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\adria\Documents\Unreal Projects\Kisereu_312\Kisereu_312_blank\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\adria\Documents\Unreal Projects\Kisereu_312\Kisereu_312_blank\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[36284:7904:0315/024148.697:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\adria\Documents\Unreal Projects\Kisereu_312\Kisereu_312_blank\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\adria\Documents\Unreal Projects\Kisereu_312\Kisereu_312_blank\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[36284:7904:0315/024148.699:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\adria\Documents\Unreal Projects\Kisereu_312\Kisereu_312_blank\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\adria\Documents\Unreal Projects\Kisereu_312\Kisereu_312_blank\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[36284:7904:0315/024148.703:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\adria\Documents\Unreal Projects\Kisereu_312\Kisereu_312_blank\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\adria\Documents\Unreal Projects\Kisereu_312\Kisereu_312_blank\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[36284:28644:0315/024149.002:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[36284:28644:0315/024149.004:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[28808:18344:0315/024150.009:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-BF55DA6120DE93D71A421442252A9BBD will be ignored
+[36284:11680:0315/024150.472:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\adria\Documents\Unreal Projects\Kisereu_312\Kisereu_312_blank\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: C:\Users\adria\Documents\Unreal Projects\Kisereu_312\Kisereu_312_blank\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[36284:24460:0315/024152.098:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22036:7096:0315/024152.362:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[22036:7096:0315/024152.688:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[22036:7096:0315/024205.356:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[22036:7096:0315/024220.732:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[35488:36240:0315/034953.129:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 7-2320DB343EDDEB9666759589961EA92F will be ignored
+[22036:7096:0315/034953.222:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 11
+[22036:7096:0315/034953.516:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 23
+[30856:33356:0315/035109.126:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 13-2B2BCEE2EE04DFE9D47572E0B854F721 will be ignored
+[36284:36624:0315/045932.418:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+>>>>>>> 44b80f5b950f99fff8f93e92dc018b98c0e4e833
